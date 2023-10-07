@@ -55,5 +55,6 @@ def get_weather(city_name):
 
 
 if __name__ == "__main__":
+    # 서울을 보여줘야 함
     city_name = "Seoul"
     get_weather(city_name)
